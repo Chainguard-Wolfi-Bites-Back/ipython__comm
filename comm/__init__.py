@@ -14,7 +14,7 @@ from typing import Any
 
 from .base_comm import BaseComm, BuffersType, CommManager, MaybeDict
 
-__version__ = "0.2.2"
+__version__ = "0.2.3"
 __all__ = [
     "__version__",
     "create_comm",

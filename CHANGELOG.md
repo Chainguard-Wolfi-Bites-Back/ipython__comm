@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.2.3
+
+([Full Changelog](https://github.com/ipython/comm/compare/v0.2.2...ec3eb438c07314b47c057c1cc3ce5fe43c294e90))
+
+### Merged PRs
+
+- Remove `traitlets` dependency [#32](https://github.com/ipython/comm/pull/32) ([@davidbrochart](https://github.com/davidbrochart))
+- Add Security.md file. [#29](https://github.com/ipython/comm/pull/29) ([@Carreau](https://github.com/Carreau))
+- pre-commit updates and fixes [#28](https://github.com/ipython/comm/pull/28) ([@Carreau](https://github.com/Carreau))
+
+### Contributors to this release
+
+([GitHub contributors page for this release](https://github.com/ipython/comm/graphs/contributors?from=2024-03-12&to=2025-07-25&type=c))
+
+[@Carreau](https://github.com/search?q=repo%3Aipython%2Fcomm+involves%3ACarreau+updated%3A2024-03-12..2025-07-25&type=Issues) | [@davidbrochart](https://github.com/search?q=repo%3Aipython%2Fcomm+involves%3Adavidbrochart+updated%3A2024-03-12..2025-07-25&type=Issues)
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.2.2
 
 ([Full Changelog](https://github.com/ipython/comm/compare/v0.2.1...76149e7ee0f331772c964ae86cdb8bafebe6dfa2))
@@ -21,8 +39,6 @@ All notable changes to this project will be documented in this file.
 ([GitHub contributors page for this release](https://github.com/ipython/comm/graphs/contributors?from=2024-01-02&to=2024-03-12&type=c))
 
 [@blink1073](https://github.com/search?q=repo%3Aipython%2Fcomm+involves%3Ablink1073+updated%3A2024-01-02..2024-03-12&type=Issues) | [@pre-commit-ci](https://github.com/search?q=repo%3Aipython%2Fcomm+involves%3Apre-commit-ci+updated%3A2024-01-02..2024-03-12&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.2.1
 
